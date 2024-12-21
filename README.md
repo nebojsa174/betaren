@@ -6,4 +6,4 @@ Responsive for all devices, built using HTML, CSS, JavaScript and PHP.
 
 ### Demo Screeshots
 
-![Betaren](./assets/images/project-betaren.png "Betaren Demo")
+![Betaren](./assets/img/project-betaren.png "Betaren Demo")
