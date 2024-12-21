@@ -1,0 +1,134 @@
+[23-Oct-2024 16:03:04 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 205
+[23-Oct-2024 16:09:02 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '?' in /home/betarenr/public_html/admin/login.php on line 11
+[23-Oct-2024 16:09:06 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '?' in /home/betarenr/public_html/admin/login.php on line 11
+[23-Oct-2024 16:09:45 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '?' in /home/betarenr/public_html/admin/login.php on line 11
+[23-Oct-2024 16:25:30 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 205
+[23-Oct-2024 16:53:31 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 287
+[23-Oct-2024 16:53:37 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '?' in /home/betarenr/public_html/admin/login.php on line 11
+[23-Oct-2024 16:54:15 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 287
+[23-Oct-2024 16:58:43 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 287
+[23-Oct-2024 16:58:48 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 287
+[23-Oct-2024 17:00:19 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 287
+[23-Oct-2024 22:39:44 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Objava.php on line 192
+[23-Oct-2024 22:41:38 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Objava.php on line 207
+[23-Oct-2024 22:41:41 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Objava.php on line 207
+[23-Oct-2024 22:42:29 Europe/Belgrade] PHP Parse error:  syntax error, unexpected '?' in /home/betarenr/public_html/admin/login.php on line 11
+[23-Oct-2024 22:47:48 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 194
+[23-Oct-2024 22:53:45 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 207
+[23-Oct-2024 22:53:54 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 207
+[23-Oct-2024 22:55:00 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 131
+[23-Oct-2024 22:55:00 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 183
+[23-Oct-2024 23:01:41 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 131
+[23-Oct-2024 23:53:14 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 239
+[23-Oct-2024 23:54:14 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 239
+[24-Oct-2024 00:04:30 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:04:44 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:05:46 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:07:45 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:08:10 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:46 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:46 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:47 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:47 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:47 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:47 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:47 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:47 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 00:10:48 Europe/Belgrade] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/betarenr/public_html/app/classes/Proizvod.php on line 240
+[24-Oct-2024 02:10:20 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 205
+[24-Oct-2024 02:10:20 Europe/Belgrade] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/betarenr/public_html/app/classes/Proizvod.php on line 205
+[25-Oct-2024 11:25:38 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 122
+[25-Oct-2024 11:25:38 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 123
+[25-Oct-2024 11:25:38 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 124
+[25-Oct-2024 11:25:38 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 125
+[25-Oct-2024 11:25:38 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 126
+[25-Oct-2024 11:29:07 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 121
+[25-Oct-2024 11:29:07 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 122
+[25-Oct-2024 11:29:07 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 123
+[25-Oct-2024 11:29:07 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 124
+[25-Oct-2024 11:29:07 Europe/Belgrade] PHP Warning:  preg_replace(): No ending delimiter '�' found in /home/betarenr/public_html/app/classes/Objava.php on line 125
+[28-Oct-2024 13:29:20 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[28-Oct-2024 13:29:20 Europe/Belgrade] PHP Warning:  Undefined array key "istaknut" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 15
+[28-Oct-2024 13:29:20 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[30-Oct-2024 12:28:21 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[30-Oct-2024 12:28:21 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[30-Oct-2024 12:28:39 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[30-Oct-2024 12:28:39 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[30-Oct-2024 12:28:42 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[30-Oct-2024 12:28:42 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[30-Oct-2024 12:28:45 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[30-Oct-2024 12:28:45 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[30-Oct-2024 12:33:15 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[30-Oct-2024 12:33:15 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[30-Oct-2024 12:33:18 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[30-Oct-2024 12:33:18 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[08-Nov-2024 11:02:48 Europe/Belgrade] PHP Warning:  Undefined array key "istaknut" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 15
+[08-Nov-2024 11:02:48 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'istaknut' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[08-Nov-2024 11:02:55 Europe/Belgrade] PHP Warning:  Undefined array key "istaknut" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 15
+[08-Nov-2024 11:02:55 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'istaknut' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[03-Dec-2024 12:02:13 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[03-Dec-2024 12:02:13 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[03-Dec-2024 12:02:18 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[03-Dec-2024 12:02:18 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
+[03-Dec-2024 12:02:59 Europe/Belgrade] PHP Warning:  Undefined array key "kategorija" in /home/betarenr/public_html/admin/unos-proizvoda.php on line 13
+[03-Dec-2024 12:02:59 Europe/Belgrade] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'kategorija' cannot be null in /home/betarenr/public_html/app/classes/Proizvod.php:34
+Stack trace:
+#0 /home/betarenr/public_html/app/classes/Proizvod.php(34): mysqli_stmt->execute()
+#1 /home/betarenr/public_html/admin/unos-proizvoda.php(29): Proizvod->addProduct()
+#2 {main}
+  thrown in /home/betarenr/public_html/app/classes/Proizvod.php on line 34
